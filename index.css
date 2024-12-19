@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'YT_Light';
+    src: url('fonts/youtube-sans-light.ttf') format('ttf'),
+        url('/fonts/youtube-sans-light.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'YT_Medium';
+    src: url('fonts/youtube-sans-medium.ttf') format('ttf'),
+        url('/fonts/youtube-sans-medium.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'YT_Bold';
+    src: url('fonts/youtube-sans-bold.ttf') format('ttf'),
+        url('/fonts/youtube-sans-bold.ttf') format('ttf');
+}
+
+h1 {
+    font-family: YT_Medium;
+}
